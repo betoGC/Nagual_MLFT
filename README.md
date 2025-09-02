@@ -3,7 +3,8 @@ on an unrestricted hartree fock method which is capable
 to add into a central atom, the potential of a crytal field
 expressed as a finite multipole expansion of the 1/r operator.
 
-It is written in .f90 standard routines and use lapack standrad libraries.
+It is written in .f90 subroutines and modules linked
+at double precision and use lapack standard libraries.
 
 In such a way, the correct splitting and labeling
 for the term-symbols in the Russel-Saunders scheme is produced.
